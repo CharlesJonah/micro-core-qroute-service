@@ -1,0 +1,4 @@
+[submodule "micro-shared-qroute"]
+	path = micro-shared-qroute
+	url = https://github.com/CharlesJonah/micro-shared-qroute.git
+	branch = develop
